@@ -14,6 +14,7 @@ Projekt ma za zadanie symulować rozkład temperatury w pomieszczeniach w wyznac
 - Ogrzewanie_pelne1.py - rozwiązuje problem badawczy 1.2 dla danych 'temperatures.csv' bez wyłączania grzejników
 - Ogrzewanie_pelne2.py - rozwiązuje problem badawczy 1.2 dla danych 'temperature_data_kelvin.csv' bez wyłączania grzejników
 - Ogrzewanie_pelne3.py - rozwiązuje problem badawczy 1.2 dla danych 'temperatures_5_7.csv' bez wyłączania grzejników
+- Ogrzewanie_bez_grzejnikow_tydzien.py - rozwiązuje problem badawczy 1.2 dla danych 'temperatures.csv' z uwzględnieniem wyłączania grzejników pod nieobecność lokatorów ale liczy czas w ciągu jednego tygodnia. Prezentacja sposobu równieżużytego dla pozostałych plików.
 
 ## Wymagania
 
